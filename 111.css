@@ -1,0 +1,20 @@
+body{
+    background-image: 
+    url("image/school.jpeg"),
+    url("image/sfgc2.jpg"),
+    url("image/Dimage.png");
+    background-repeat: no-repeat;
+    background-size: 220px,400px,300px;
+    background-position: 0px 165px,0px 320px,500px 560px;
+    background-position-x: center, center ,center;
+    background-origin: content-box;
+
+}
+ol{
+    
+    font-style: italic;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    
+}

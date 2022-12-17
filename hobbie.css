@@ -1,0 +1,7 @@
+body{
+    background-color: beige;
+    background-image: url("image/swim.jpg"),url("image/travel.jpg"),url("image/travel7.jpg"),url("image/bike.jpg"),url("image/bike3.jpg"),url("image/books.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: 200px 10px,200px 190px,450px 215px ,200px 370px ,450px 380px ,200px 550px ;
+}

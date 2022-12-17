@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    background-image: url("image/SHIVA .M .KIVADE.jpg");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: 525px 250px;
+}
+ol{
+    font-size: medium;
+    font-style: oblique;
+    font-weight: 200;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
